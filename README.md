@@ -1,9 +1,6 @@
 # ELMO
 # README
 
-#Anantha Lakshmi Yadavalli'
-#2020101103
-
 
 ### FILE STRUCTURE:
 
